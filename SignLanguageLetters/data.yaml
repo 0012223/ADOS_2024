@@ -1,0 +1,15 @@
+path: C:\Users\Uni\Courses\6 Semester\ADOS\Projekat\ADOS_2024\SignLanguageLetters\dataset
+
+train: train/images
+val: validation/images
+test: test/images
+
+nc: 6
+names: [
+  'sign_A',
+  'sign_B',
+  'sign_C',
+  'sign_D',
+  'sign_E',
+  'sign_F'
+]
